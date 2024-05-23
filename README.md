@@ -1,5 +1,4 @@
 # Portfolio
-# Coursera-Web-Design-Project
 This is a repository for the Portfolio Project (designed from scratch) (https://www.coursera.org/specializations/web-design).
 
 ## About this Specialization
